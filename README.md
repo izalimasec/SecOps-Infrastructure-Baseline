@@ -2,7 +2,7 @@
 
 Repositório dedicado à automação de processos de Defesa Cibernética, Governança de Identidades (IAM) e Auditabilidade de sistemas legados. 
 
-> "Transformo o caos de sistemas legados em perímetros de defesa blindados e documentados." — Iza Lima
+> "Transformo o caos de sistemas legados em perímetros de defesa blindados e documentados." Iza Lima
 
 ## 🧬 A Anatomia da Operação
 A segurança não é um produto de prateleira, é um estado de integridade contínua. Os scripts deste repositório refletem a aplicação prática de **Racionalismo Integrativo**, onde a necessidade de controle absoluto sobre a informação atua como uma ferramenta de rastreabilidade corporativa.
